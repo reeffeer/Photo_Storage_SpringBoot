@@ -1,0 +1,6 @@
+com\jetbrains\reef\photosclone\controller\DownloadController.class
+com\jetbrains\reef\photosclone\controller\PhotosController.class
+com\jetbrains\reef\photosclone\repository\PhotosRepository.class
+com\jetbrains\reef\photosclone\PhotosCloneApplication.class
+com\jetbrains\reef\photosclone\model\Photo.class
+com\jetbrains\reef\photosclone\service\PhotoService.class
